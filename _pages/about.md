@@ -23,12 +23,7 @@ Publications
 
 Competition Awards
 ------
-* [The 5th Workshop on Chinese Machine Reading Comprehension](https://hfl-rc.github.io/cmrc2022/results/) **2nd Prize**.
+* [The 5th Workshop on Chinese Machine Reading Comprehension](https://hfl-rc.github.io/cmrc2022/results/) **2nd Prize**.            
   **Yue Fan**, Hu Zhang, Ru Li
-* [Challenge of AI in Law (CAIL 2021) Reading Comprehension Track](http://cail.cipsc.org.cn/task_summit.html?raceID=0&cail_tag=2021) **2nd Prize**.
+* [Challenge of AI in Law (CAIL 2021) Reading Comprehension Track](http://cail.cipsc.org.cn/task_summit.html?raceID=0&cail_tag=2021) **2nd Prize**.                    
   **Yue Fan**, Yujie Wang, Guangjun Zhang, Hu Zhang
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
