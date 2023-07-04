@@ -19,7 +19,7 @@ Recent News
 Publications
 ======
 * [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). Semantic Web, 2022.      
-  Hu Zhang, Jingjing Zhou, Ru Li, & **Yue Fan**.
+  Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 
 Competition Awards
 ------
