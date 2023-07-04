@@ -18,7 +18,7 @@ Recent News
 
 Publications
 ======
-* [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). Semantic Web, 2022.
+* [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). Semantic Web, 2022.      
   Zhang, H., Zhou, J., Li, R., & **Fan, Y**.
 
 Competition Awards
