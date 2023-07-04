@@ -13,7 +13,7 @@ I am a PhD student from the School of Computer and Information Technology at [Sh
 
 Recent News
 ======
-* **2021-12163** one paper is accepted by Semantic Web 2022.
+* **2021-12** one paper is accepted by Semantic Web 2022.
 
 
 Publications
