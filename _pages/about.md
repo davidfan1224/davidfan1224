@@ -13,11 +13,13 @@ I am a PhD student from the School of Computer and Information Technology at [Sh
 
 Recent News
 ======
-XXXXXXX
+* **2021-12163** one paper is accepted by Semantic Web 2022.
+
 
 Publications
 ======
-XXXXXXX
+* [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). Semantic Web, 2022.
+  Zhang, H., Zhou, J., Li, R., & **Fan, Y**.
 
 Competition Awards
 ------
