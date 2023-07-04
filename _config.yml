@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yue Fan"
-  avatar           : "2.png"
+  avatar           : "fan.png"
   bio              : ""
   location         : "Shanxi University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "17634972122@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
