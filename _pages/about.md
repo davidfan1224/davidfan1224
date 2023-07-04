@@ -23,7 +23,8 @@ Publications
 
 Competition Awards
 ------
-XXXXXXXX
+* The 5th Workshop on Chinese Machine Reading Comprehension
+
 
 For more info
 ------
