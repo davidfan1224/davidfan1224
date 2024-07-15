@@ -18,8 +18,6 @@ Recent News
 
 Publications
 ======
-* [FRVA: Fact-Retrieval and Verification Augmented Entailment Tree Generation for Explainable Question Answering]. Findings of ACL, 2024.      
-  **Yue Fan**, Hu zhang, Ru Li, YuJie Wang, Hongye Tan, Jiye Liang.
 * [Network representation learning method embedding linear and nonlinear network structures](https://content.iospress.com/articles/semantic-web/sw212968). Semantic Web, 2022.      
   Hu Zhang, Jingjing Zhou, Ru Li, **Yue Fan**.
 
